@@ -13,6 +13,7 @@ body {
   align-items: center;
   justify-content: center;
   background-color: darkred;
+  overflow: hidden;
 }
 
 header {
@@ -28,7 +29,7 @@ main {
   #user-input {
     width: 100%;
     height: 40px;
-    font-size: 2vw;
+    font-size: 4vw;
     padding: 10px;
     outline: none;
     border: none;
